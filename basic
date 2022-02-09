@@ -1,0 +1,11 @@
+.js (source code)->client
+      |          ->server
+      jsEngine
+      |
+      machine code
+
+
+jsEngine=program
+governing-Ecma
+firfox js engine-spider monkey
+chrome,node js engine-v8
